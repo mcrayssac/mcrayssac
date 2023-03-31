@@ -22,8 +22,8 @@ I'm actively working on different projects to apply my learnings and build a str
 
 If you want to connect with me or have any questions, feel free to reach out through my social media platforms:
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
-- [Twitter](https://twitter.com/your-twitter-username)
+- [LinkedIn](https://www.linkedin.com/in/maxime-crayssac-b3b020250/)
+- [Portfolio](https://mcrayssac.github.io/)
 
 ### Let's Collaborate!
 
