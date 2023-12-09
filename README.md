@@ -2,7 +2,7 @@
 
 ### About Me
 
-Bonjour! I'm a second-year student studying at IUT Nord Franche-Comté in Belfort, France. I'm passionate about learning and exploring various fields, including Data Science, Artificial Intelligence, Web Development, and Programming languages such as JavaScript and Python.
+Bonjour! I'm a third-year student studying at IUT Nord Franche-Comté in Belfort, France. I'm passionate about learning and exploring various fields, including Data Science, Artificial Intelligence, Web Development, and Programming languages such as JavaScript and Python.
 
 ### My Interests
 
